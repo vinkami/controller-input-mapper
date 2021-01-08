@@ -1,0 +1,22 @@
+{
+  "code2key": {
+    "ABS_HAT0X": "DPAD_X",
+    "ABS_HAT0Y": "DPAD_V",
+    "ABS_RX": "RS_H",
+    "ABS_RY": "RS_V",
+    "ABS_RZ": "ZR",
+    "ABS_X": "LS_H",
+    "ABS_Y": "LS_V",
+    "ABS_Z": "ZL",
+    "BTN_EAST": "B",
+    "BTN_NORTH": "Y",
+    "BTN_SELECT": "+",
+    "BTN_SOUTH": "A",
+    "BTN_START": "-",
+    "BTN_THUMBL": "LS_C",
+    "BTN_THUMBR": "RS_C",
+    "BTN_TL": "L",
+    "BTN_TR": "R",
+    "BTN_WEST": "X"
+  }
+}
